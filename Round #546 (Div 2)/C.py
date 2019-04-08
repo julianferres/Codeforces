@@ -19,5 +19,5 @@ def diagonalOrder(a,b):
         if(sorted(aux_a)!=sorted(aux_b)): return("NO")
     return("YES")
 
-
+# Checking CLI submission
 print(diagonalOrder(a,b))
