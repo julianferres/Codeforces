@@ -1,4 +1,4 @@
-def dfs_rec(graph , node , visited):
+def rec_dfs(graph , node , visited):
 
 	if node not in visited:
 		visited.append(node)
@@ -8,10 +8,9 @@ def dfs_rec(graph , node , visited):
 
 
 def dfs(graph , node):
-
 	visited = []
 
-	dfs_rec(graph , node , visited)
+	rec_dfs(graph , node , visited)
 	print(visited)
 
 
