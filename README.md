@@ -1,4 +1,4 @@
 # Codeforces
 
 ## Handle: [julianferres](https://codeforces.com/profile/julianferres)
-Soluciones y material para diferentes problemas en [Codeforces](codeforces.com)
+Solutions and resources of different problems at [Codeforces](codeforces.com)
