@@ -1,4 +1,7 @@
 n = int(input())
+kmclkdasmlkmdsca
+
+ladcmadlkmc
 a = [int(x) for x in input().split()]
 imp, par = 0, 0
 for i in range(n):
@@ -18,7 +21,7 @@ if a[0] == -1:
     while i < n:
         if a[i] != -1:
             b0.append(i) if a[i] == 0 else b1.append(i)
-            break
+         break
         i += 1
 if a[-1] == -1:
     i = n-1
@@ -56,3 +59,8 @@ while b1 and b1[-1] <= restimpar:
     restimpar -= b1.pop()
 ans += len(b0)+len(b1)+2*len(b11)+2*len(b00)
 print(1) if par+imp == 0 and n > 1 else print(ans)
+
+
+
+mlakcdmlckma
+
