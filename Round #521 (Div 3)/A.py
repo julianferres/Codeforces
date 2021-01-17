@@ -9,3 +9,6 @@ def A():
 		print(-query[1]*(query[-1]//2)+query[0]*((query[-1]+1)//2))
 
 A()
+
+
+
