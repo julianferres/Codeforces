@@ -1,0 +1,1 @@
+{"name":"Local: RequiredSubstring","url":"/home/julian/CP/CSES/RequiredSubstring.cpp","tests":[{"id":1605762191894,"input":"6\nABCDB","output":"52"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/julian/CP/CSES/RequiredSubstring.cpp","group":"local","local":true}

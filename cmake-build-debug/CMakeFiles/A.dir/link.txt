@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/A.dir/prueba_clion/A.cpp.o  -o A 

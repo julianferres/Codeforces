@@ -1,0 +1,1 @@
+{"name":"Local: E","url":"/home/julian/CP/Edu107/E.cpp","tests":[{"id":1618261357421,"input":"3 4\n**oo\noo*o\n**oo","output":"144"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/julian/CP/Edu107/E.cpp","group":"local","local":true}

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="KotlinHeroes-Practice">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/B.jar!/" />
+      <root url="jar://$PROJECT_DIR$/A.jar!/" />
+      <root url="jar://$PROJECT_DIR$/C.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
